@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools">
 
 
-<!--    <uses-sdk android:minSdkVersion="21" />-->
+    <!--    <uses-sdk android:minSdkVersion="21" />-->
+
 
     <!-- useful permissions-->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
