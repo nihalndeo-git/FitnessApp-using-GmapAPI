@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FitFusion</string>
+    <string name="start_run">Start Run</string>
+    <string name="end_run">End Run</string>
+    <string name="show_summary">Show Summary</string>
+    <string name="app_slogan">Live Fit, Stay Fit</string>
+    <string name="track_your_run">Track Your Run</string>
+    <string name="app_logo">App Logo</string>
+
+    <!-- <string name="app_name">Your App Name</string> -->
+</resources>
