@@ -21,6 +21,5 @@ A fitness tracking Android application that integrates **Google Maps API** to he
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/nihalndeo-git/FitnessApp-using-GmapAPI.git
 cd FitnessApp-using-GmapAPI
